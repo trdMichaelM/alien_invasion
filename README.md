@@ -1,2 +1,10 @@
-# alien_invasion
-alien_invasion
+# Alien Invasion
+
+Игра, Alien Invasion по книге Эрика Матиза, в которой игрок должен сбивать корабли пришельцев, падающих по экрану с нарастающей скоростью и сложностью.
+
+### Технологии:
+    Python 3+
+    Pygame
+
+### Запуск:
+    $ python alien_invasion.py
